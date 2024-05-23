@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<propertys>
+    <property>
+        <img>../images/property-1.jpg</img>
+        <title>Wadada / Mumbai,MH,India</title>
+        <time>21.958 sq Ft</time>
+        <discription> 7 bedroom / 3 bathroom <h3>$123,678,907</h3></discription>
+    </property>
+    <property>
+        <img>../images/property-2.jpg</img>
+        <title>Pawana/Lonavala,MH,india</title>
+        <time>11,000 sq Ft /3 Acre(s)</time>
+        <discription>5 Bedroom /6 bathrooms <h3>$5,426,263</h3></discription>
+    </property>
+    <property>
+        <img>../images/property-3.jpg</img>
+        <title>Golf Road/Gurgaon,HR,India</title>
+        <time>7,319 sq Ft</time>
+        <discription>4 Bedroom / 5 bathrooms <h3>$5,426,678</h3></discription>
+    </property>
+    <property>
+        <img>../images/property-4.jpg</img>
+        <title>Greater Kailash/Delhi,Dl, india</title>
+        <time>17,362 sq Ft</time>
+        <discription>11 Bedroom / 6 bathrooms <h3>$5,305,679</h3></discription>
+    </property>
+    <property>
+        <img>../images/property-5.jpg</img>
+        <title>Rajpur Road/Dehradun,UT,India</title>
+        <time>0.29 Acre(s)</time>
+        <discription>7 Bedroom <h3>$7,837,936</h3></discription>
+    </property>
+    <property>
+        <img>../images/property-6.jpg</img>
+        <title>Maharani Bagh/Baroda,DL,India</title>
+        <time>0.17 Acre(s)</time>
+        <discription>8 Bedroom /8 bathrooms <h3>$5,185,096</h3></discription>
+    </property>
+</propertys>

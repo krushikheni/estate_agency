@@ -1,0 +1,58 @@
+[
+{
+    "img":"../images/agent-1.jpg",
+    "name":"leslie Alexander",
+    "designation":"Tutor",
+    "email":"leslie23@gmail.com",
+    "description":"leslie Alexander joined our team in 2010 as a agent tutor."
+},
+{
+    "img":"../images/agent-2.jpg",
+    "name":"Cameron Williamson",
+    "designation":"Course assistent",
+    "email":"camron2@gmail.com",
+    "description":"Cameron helps Teachzy team with online programs."
+},
+{
+    "img":"../images/agent-3.jpg",
+    "name":"Thresa Webb",
+    "designation":" Lead Tutor",
+    "email":"theresa5@gmail.com",
+    "description":"Threasa webb is one of our best foregin languages tutors."
+},
+{
+    "img":"../images/agent-9.jpg",
+    "name":"Jacob Jones",
+    "designation":"program coordinator",
+    "email":"jacob12@gmail.com",
+    "description":"jacob jones coordinates most of our programs & courses."
+},
+{
+    "img":"../images/agent-5.jpg",
+    "name":"Brooklyn Simmons",
+    "designation":"professor",
+    "email":"brookly8@gmail.com",
+    "description":"Brooklyn simmons is our leading management tutor."
+},
+{
+    "img":"../images/agent-6.jpg",
+    "name":"Wade Warren",
+    "designation":"Tutor",
+    "email":"wade19@gmail.com",
+    "description":"Wade Warren is an author of web tehcnology programs."
+},
+{
+    "img":"../images/agent-7.jpg",
+    "name":"Darlene Roberston",
+    "designation":"Lead teacher",
+    "email":"darlene3@gmail.com",
+    "description":"darlene Massa ,et porttitor cras sed ultrics ullamcroper."
+},
+{
+    "img":"../images/agent-8.jpg",
+    "name":"Esther Howard",
+    "designation":"Professor",
+    "email":"esther34@gmail.com",
+    "description":"Esther Howard is our leading management professor."
+}
+]

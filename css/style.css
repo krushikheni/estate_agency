@@ -1,0 +1,219 @@
+*{margin: 0;  padding: 0;  box-sizing: border-box;}
+
+/* ----------------navbar-------------------- */
+ul{position: relative;}
+ul li a{color: white;}
+ .navbar ul{height: 70px;align-items: center;}
+ul li a{color:white; font-size: 22px;}
+.navbar-brand{color:black;
+     font-size: 40px;
+    font-weight: bold;
+    font-family: revert;
+    font-weight: bold;}
+.nav-link{color:black;}
+.nav-link:hover{color:#2eca6a;}
+h1 .color-b{color:#2eca6a;}
+.dropdown-menu{height: auto importnt; background-color: white; clear:both; overflow: hidden; min-height: unset;}
+.dropdown-item:hover{color:#2eca6a}
+.active{color: #2eca6a;}
+.navbar-nav .nav-link:focus{ color:#000;}
+.custom-menu.align-right > div > ul > li {margin: 10px; }
+.custom-menu.align-right > div > ul > li:last-child{ margin-right:0px; }
+section.contact .card {display: flex !important; flex-direction: row; padding: 20px; align-items: center; }
+section.contact .card .icon-box-icon{ margin-right:20px; }
+.navbar{position: sticky; top: 0; z-index: 100;}
+/* ----------------end navbar ------------------ */
+
+/* ----------------home page ----------------------- */
+.h400{ height:670px; }
+.intro-body.btn{border-radius: 20px;}
+.color-b{color:#2eca6a;}
+.carousel-control-next-icon{background-color: #2eca6a;}
+.carousel-control-prev-icon{background-color: #2eca6a;}
+/* -------------- end home page ---------------------- */
+
+/* ------------------about page------------------------ */
+.about-info-b p{font-size: 20px; font-weight: bold;}
+.about-info-b h1{color: #2eca6a; margin-bottom: 20px;}
+.btn a{text-decoration: none; color: black;}
+.btn a:hover{color:white}
+.about-info-a img{box-shadow: 5px 10px 8px gray;}
+/* -----------------end about page--------------------- */
+
+
+
+/* -----------------------services--------------------- */
+.title-a{font-size: 50px; margin-top: 45px; margin-bottom: 45px; font-weight: bold;}
+.card-footer-c a{text-decoration: none;  color:#2eca6a; font-weight: bold; display: block; text-align: center; padding-bottom: 10px; }
+.link-c:hover{color:black;}
+.section-t8{background-color: white;}
+.card-box-c{background-color:white; color:black; cursor: pointer; border-radius: 10px;  margin-left: 30px; margin-right: 30px;        margin-bottom: 30px; background-color: #f1f1f1; padding:20px;   box-shadow: 5px 10px 8px #ccc;}
+
+.card-box-c:hover{background-color: #2eca6a; color: white; transform: scale(1.2);}
+.our-service .title-c{align-items: center;}
+.our-service i{font-size: 50px; margin-bottom: 10px; color:#2eca6a; margin-top: 30px;}
+.card-box-c:hover .fa{ color: black;}
+.card-box-c:hover a{ color: black;}
+.card-header-c{align-items: center; text-align: center;justify-content: center;}
+.card-box-c p{font-size: 17px;margin-bottom: 10px; margin-left: 10px;margin-right: 10px; margin-top: 10px;}
+/* ---------------------end services-------------------- */
+
+/* ------------------property page-------------------- */
+.pp{text-align: center; margin-bottom: 40px;}
+.card{margin: 20px;box-shadow: 5px 10px 8px gray; overflow: hidden;}
+.card img{border-radius: 5px; transition: .5s;}
+.intro{padding: 6px; position: absolute; bottom: 0px; background:rgb(27 ,27,27, .5); width: 400px; box-sizing: border-box; color: white; height: 60px; transition: .5s;}
+.intro h4{margin-top:10px; margin-bottom: 10px;}
+/* .intro h5,p,h3{visibility: hidden; opacity: 0;} */
+.card:hover{cursor:pointer;}
+.card:hover .intro{background-color: #2eca6a; bottom: 0px; height: 180px;}
+.card:hover .intro h5,p,h3{opacity: 1; visibility: visibles;}
+.card:hover img{transform: scale(1.1)  ;}
+
+/* ------------------end property page----------------- */
+
+/* ------------------ contact page----------------- */
+
+.info{margin-bottom: 30px;}
+.info-b{margin-bottom: 30px;}
+.contact-map{margin-bottom: 40px;}
+.icon-box-icon{font-size: 30px;
+color:#2eca6a }
+.g-5{background-color: #2eca6a; margin-top: 10px;}
+
+/* --------------------- end contact------------------ */
+
+/* ---------------------- agent------------------- */
+.card-box-d .card-overlay-hover {
+    transition: all 0.2s ease-in-out;
+    padding: 15px 40px 15px 35px;
+  }
+  
+  @media (min-width: 768px) {
+    .card-box-d .card-overlay-hover {
+      padding: 5px 15px 5px 10px;
+    }
+  }
+  
+  @media (min-width: 992px) {
+    .card-box-d .card-overlay-hover {
+      padding: 5px 40px 5px 35px;
+    }
+  }
+  @media (min-width: 1200px) {
+    .card-box-d .card-overlay-hover {
+      padding: 15px 40px 5px 35px;
+    }
+  }
+  .card-box-d .title-d {
+    transition: 0.3s ease-in-out;  font-size: 2rem; font-weight: 600;  margin: 1rem 0; transform: translateY(-20px); opacity: 0;
+  }
+   @media (min-width: 768px) {
+    .card-box-d .title-d {
+      font-size: 1.1rem;
+      margin: 0.5rem 0;
+    }
+  }
+   @media (min-width: 992px) {
+    .card-box-d .title-d {
+      font-size: 1.5rem;
+      margin: 1rem 0;
+    }
+  }
+  
+  @media (min-width: 1200px) {
+    .card-box-d .title-d {
+      font-size: 2rem;
+      margin: 1rem 0;
+    }
+  }
+  
+  .card-box-d .content-d {
+    opacity: 0;   transition: 0.5s ease-in-out; transform: translateY(-40px);
+  }
+  
+  @media (min-width: 768px) {
+    .card-box-d .content-d {
+      font-size: 0.8rem;
+      margin: 0.5rem 0;
+    }
+  }
+  
+  @media (min-width: 768px) {
+    .card-box-d .card-body-d p {
+      margin-bottom: 8px;
+      font-size: 0.8rem;
+    }
+  }
+  
+  @media (min-width: 992px) {
+    .card-box-d .card-body-d p {
+      margin-bottom: 12px;
+      font-size: 1rem;
+    }
+  }
+  
+  .card-box-d .info-agents {
+    opacity: 0;   transition: 0.5s ease-in-out;
+  }
+  
+  .card-box-d .card-footer-d {
+    transition: 0.5s ease-in-out;   transform: translateY(40px);   opacity: 0;   position: absolute;   width: 100%;   bottom: 10px;   left: 0;
+  }
+  
+  .card-box-d .list-inline-item:not(:last-child) {
+    margin-right: 25px;
+  }
+  
+  .card-box-d:hover .card-overlay-hover {
+    background-color: #2eca6a;   opacity: 0.9;
+  }
+  
+  .card-box-d:hover .title-d,
+  .card-box-d:hover .content-d,
+  .card-box-d:hover .info-agents,
+  .card-box-d:hover .card-footer-d {
+    opacity: 1;
+    transform: translateY(0);
+  }
+  
+  /*------/ Agent Single /------*/
+  .agent-info-box .socials-footer {
+    margin-top: 2rem;
+  }
+  
+  .agent-info-box .socials-footer li {
+    margin-right: 1.5rem;
+  }
+  .card-box-d{ position: relative;}
+  .card-overlay {
+    position: absolute;   width: 100%;   height: 100%;   top: 0;    left: 0;
+}
+.list-inline-item i{color: #000;}
+.card-header-d h3 a{color: black; text-decoration: none;}
+.title-link{margin-top: 70px;}
+
+.clients{text-align: center; margin:55px;}
+.card-blog .data{  margin-top: 20px; margin-right: 20px; margin-bottom: 20px; padding-top:20px; padding-left: 20px; padding-bottom: 20px; border-radius: 10px; background-color: #000000; color:#ccc}
+.card-blog .data:hover{ color:black; transition:.5s; background-color: #2eca6a;}
+
+/* ----------------------end agent----------------- */
+
+/*------------------------Footer-----------------------*/
+.section-footer {    padding-top: 60px;    margin-top: 60px;    background: #f3f3f3;  }
+.section-footer ul {   line-height: 2;  }
+.section-footer .item-list-a i {    font-size: 18px;    padding-right: 4px;    color: #2eca6a;  }
+.section-footer .item-list-a a{color: black; text-decoration: none; list-style: none;}
+.section-footer .item-list-a a:hover{color: #2eca6a;}
+.socials-a .list-inline-item i{color:black;}
+.socials-a .list-inline-item i:hover{color: #2eca6a;}
+.nav-footer ul li a{color: black;text-decoration: none;}
+.nav-footer ul li a:hover{color:#2eca6a;}
+.section-footer .widget-a .w-title-a {margin-bottom: 1rem;}
+footer {background: #f3f3f3; text-align: center; padding: 30px 0;}
+footer .copyright-footer {  border-top: 1px solid #ddd;  padding-top: 20px;}
+footer .credits {  font-size: 14px;  }
+/* ------------- end footer------------------- */
+
+
+
